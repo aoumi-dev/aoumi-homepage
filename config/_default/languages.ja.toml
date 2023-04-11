@@ -1,0 +1,7 @@
+# config/_default/languages.ja.toml
+
+contentDir = 'content/ja'
+languageName = "Japanese"
+title = ""
+languageCode = "ja"
+

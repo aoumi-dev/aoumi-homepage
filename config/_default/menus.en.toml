@@ -1,0 +1,25 @@
+# config/_default/menus.ja.toml
+
+[[main]]
+name = "Top"
+url = "/"
+weight = -200
+
+[[main]]
+name = "About"
+url = "/about/"
+weight = -100
+
+[[main]]
+name = "Contacts"
+url = "/contacts/"
+weight = 10
+
+[[main]]
+name = "Member"
+url = "/member/"
+weight = 10
+
+[[footer]]
+name = "privacypolicy"
+url = "/privacypolicy"
