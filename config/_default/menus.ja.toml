@@ -9,6 +9,7 @@ weight = -200
 name = "About"
 url = "/about/"
 weight = -100
+title = "about"
 
 [[main]]
 name = "Contacts"
