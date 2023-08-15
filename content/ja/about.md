@@ -1,3 +1,7 @@
+---
+title: "About"
+# draft: true
+---
 # About
 
 ## 会社名
