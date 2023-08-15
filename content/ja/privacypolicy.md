@@ -1,3 +1,8 @@
+---
+title: "PrivacyPolicy"
+# draft: true
+---
+
 # PrivacyPolicy
 
 プライバシーポリシー
