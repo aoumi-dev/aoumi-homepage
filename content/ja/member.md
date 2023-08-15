@@ -3,8 +3,6 @@ title: "Member"
 # draft: true
 ---
 
-# Member
-
 ## CEO
 
 渡辺 啓太
